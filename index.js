@@ -1,1 +1,2 @@
-cconsole.log("Ola")
+ let name = "Helio";
+cconsole.log(name);
